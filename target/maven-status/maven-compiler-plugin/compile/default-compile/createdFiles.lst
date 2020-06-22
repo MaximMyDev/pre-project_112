@@ -1,0 +1,10 @@
+_my_test_1\servlet\UserServlet.class
+servlet\UserServlet.class
+dao\UserHibernateDAO.class
+dao\UserDAO.class
+dao\UserJdbcDAO.class
+util\connectDB.class
+_my_test_1\dao\UserDAO.class
+service\UserService.class
+_my_test_1\model\User.class
+model\User.class
